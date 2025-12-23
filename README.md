@@ -66,8 +66,8 @@ An intelligent to-do list application powered by AI that helps you manage tasks 
    ```bash
    node index.js
    ```
-
-## Project demo : {https://youtu.be/ScZV5BLrwuE?si=6sqATAqmS7Hi-Y8l}
+[![Project demo]
+(https://youtu.be/ScZV5BLrwuE?si=QdpUdsuwHDBXT28s)    // Video Link
 
 ## 🔑 Getting Your Groq API Key
 
