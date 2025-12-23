@@ -67,6 +67,8 @@ An intelligent to-do list application powered by AI that helps you manage tasks 
    node index.js
    ```
 
+## Project demo : {https://youtu.be/ScZV5BLrwuE?si=6sqATAqmS7Hi-Y8l}
+
 ## 🔑 Getting Your Groq API Key
 
 1. Visit [Groq Console](https://console.groq.com/)
